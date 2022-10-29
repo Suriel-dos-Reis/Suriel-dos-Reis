@@ -1,4 +1,4 @@
-Olá a todos, o meu nome é Suriel dos Reis 👋
+Olá a todos, o meu nome é Suriel dos Reis 
 
 <!--
 **Suriel-dos-Reis/Suriel-dos-Reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
